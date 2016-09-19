@@ -1,0 +1,7 @@
+@relation simple_features
+@attribute x real
+@data
+0
+2
+3
+5

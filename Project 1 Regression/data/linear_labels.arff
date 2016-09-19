@@ -1,0 +1,7 @@
+@relation simple_labels
+@attribute y real
+@data
+2
+3
+3.5
+4.5
