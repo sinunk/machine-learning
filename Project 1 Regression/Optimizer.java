@@ -1,9 +1,5 @@
 abstract public class Optimizer 
 {
-/*
-The constructor should require an Objective to be passed as a parameter. 
-Add an abstract method named iterate that takes no parameters and returns a double".
-*/
 	Objective obj;
 
 	Optimizer(Objective ob)
